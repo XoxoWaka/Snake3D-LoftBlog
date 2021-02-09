@@ -19,10 +19,7 @@ public class SnakeController : MonoBehaviour
 
     private void Start()
     {
-        _transform = GetComponent<Transform>();  
-        
-        
-                
+        _transform = GetComponent<Transform>();              
     }
 
     private void Update()
